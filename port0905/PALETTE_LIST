@@ -1,0 +1,3 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/port0905 LINK "E:/Repos/2DAnimation/port0905/palette-library/port0905.plt"
+palette-library/port0905_pencil_texture LINK "E:/Repos/2DAnimation/port0905/palette-library/port0905_pencil_texture.plt"
