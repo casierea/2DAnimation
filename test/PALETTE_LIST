@@ -1,0 +1,7 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/test LINK "E:/Repos/2DAnimation/test/palette-library/test.plt"
+palette-library/test_pencil_texture LINK "E:/Repos/2DAnimation/test/palette-library/test_pencil_texture.plt"
+palette-library/katie_grim LINK "E:/Repos/2DAnimation/test/palette-library/katie_grim.plt"
+palette-library/hand_temp LINK "E:/Repos/2DAnimation/test/palette-library/hand_temp.plt"
+palette-library/Katie_rig_v4_w_pencil_texture LINK "E:/Repos/2DAnimation/test/palette-library/Katie_rig_v4_w_pencil_texture.plt"
+palette-library/dbl_ch_katie_v01_pencil_texture LINK "E:/Repos/2DAnimation/test/palette-library/dbl_ch_katie_v01_pencil_texture.plt"
